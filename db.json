@@ -4,7 +4,7 @@
 "statusId": 102,
 "message": "SE CREO LA ORDEN DE QUIEBRE",
 "brokenOrder" : {
-"id":"OQ123",
+"id":1,
 "createdUser": "lkawai" ,
 "createdSession": 9088 ,
 "createdDate":"26/06/2020 16:04:12",
