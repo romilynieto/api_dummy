@@ -42,7 +42,7 @@
 ,
     { "id": 2, "status": 102,
   "message": "Broken orders were successfully obtained",
-  "notAssignedOrderEntities": [
+  "brokenOrder": [
     {
       "corridorId": "CAVA-LICORES",
       "brokenOrderId": "OQ4725678",
